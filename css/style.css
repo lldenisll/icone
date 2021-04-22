@@ -1363,7 +1363,7 @@ a.bg-video-button-muted{
     font-weight: 400;
     line-height: 1.4;
     text-transform: uppercase;
-    letter-spacing: 0.7em;
+    letter-spacing: 0.4em;
 }
 .hs-line-15{
     margin-top: 0;
@@ -3725,9 +3725,10 @@ a.logo:hover{
 
 .banner-decription{
     margin-bottom: 35px;
-    font-size: 15px;    
-    font-weight: 300;
+    font-size: 19px;    
+    font-weight: 500px;
     color: rgba(255,255,255, .7);
+    text-transform: uppercase;
 }
 
 .banner-image{
