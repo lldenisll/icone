@@ -2428,7 +2428,7 @@ a.logo:hover{
     background-attachment: scroll !important;
 }
 @media only screen and (max-width: 760px) {
-    .bg-scroll {background-size:100% auto;}
+    .bg-scroll {background-size: 100% auto;}
 }
 .bg-pattern{
     background-repeat: repeat;
