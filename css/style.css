@@ -5723,8 +5723,8 @@ section:hover .small-item-carousel .owl-next{
     display: block;
     position: relative;
     margin-top: 1px;
-    font-size: 11px;
-    letter-spacing: 1px;
+    font-size: 10px;
+    letter-spacing: 0px;
     font-weight: bold;
     text-transform: uppercase;
 }
